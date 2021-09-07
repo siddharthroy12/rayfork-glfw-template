@@ -1,4 +1,4 @@
-# Simple CMake template for [rayfork](https://github.com/SasLuca/rayfork) using [glfw] (https://github.com/glfw/glfw)
+# Simple CMake template for [rayfork](https://github.com/SasLuca/rayfork) using [glfw](https://github.com/glfw/glfw)
 
 ## Notes:
 - Bear in mind that rayfork is still under development and not officially released yet, you can use this template to experiment with rayfork if you are curious until it gets officially released.
