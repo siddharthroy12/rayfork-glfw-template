@@ -18,7 +18,7 @@ cmake ..
 cmake --build .
 ```
 
-##### This template uses: 
+## This template uses: 
 - [rayfork](https://github.com/SasLuca/rayfork) (the amalgamated version).
 - [glad](https://github.com/Dav1dde/glad) for OpenGL loading.
 - [glfw](https://github.com/glfw/glfw) for Window and Input handling
